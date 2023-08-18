@@ -1,18 +1,21 @@
 <h1 align="center">Hi, I'm Shishir Kumar Regmi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" alt="😎" width="30" height="30"></h1>
 <p align="center"><img src="./Shishir Photo.jpg" width="150"></p>
 <h3 align="center">~Quick Learner ~TechEnthusiast ~Learner.</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Shishirkumarregmi&label=Profile%20views&color=0e75b6&style=flat" alt="voidcu" /> 
+
 </p>
 <hr>
 <h2 align="center"> 💫 About Me:</h2>
 🌐🧠 Transforming ideas into immersive web experiences<br>📊 Crafting data-driven solutions <br>👩‍💻Join me in shaping the digital future! 🚀🤝
 <br>📫 How to reach me shishirregmi65@gmail.com<br>⚡ Fun fact I understand Programming jokes
+https://twitter.com/ShishirRegmi65
 
 <hr>
-<h2 align="center"> 🌐 Socials:</h2>
+<h2 align="center">Socials:</h2>
 <p align="center">
+<a href="https://twitter.com/ShishirRegmi65" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shishirregmi65" height="40" width="50"/></a>
+<a href="https://linkedin.com/in/shishir-regmi-480b76206" target="blank"><img align="center" src="https://asset.brandfetch.io/idJFz6sAsl/idZ43Jg46z.svg" height="40" width="50" /></a>
+<a href="https://instagram.com/ccrregmi65" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shishirregmi" height="40" width="50" /></a>
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shishir.regmi.90) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ccrregmi65) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shishir-regmi-480b76206) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/CcrRegmi) 
 </p>
 <hr>
 <h2 align="center"> 💻 Tech Stack:</h2>
