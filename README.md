@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌐🧠 Transforming ideas into immersive web experiences<br>📊 Crafting data-driven solutions <br>👩‍💻 Turning Ideas into Reality <br>Join me in shaping the digital future! 🚀🤝
+🌐🧠 Transforming ideas into immersive web experiences<br>📊 Crafting data-driven solutions <br>👩‍💻Join me in shaping the digital future! 🚀🤝
 <br>📫 How to reach me shishirregmi65@gmail.com<br>⚡ Fun fact I understand Programming jokes"
 
 ## 🌐 Socials:
