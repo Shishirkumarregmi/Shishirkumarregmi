@@ -8,7 +8,7 @@
 <h2 align="center"> 💫 About Me:</h2>
 🌐🧠 Transforming ideas into immersive web experiences<br>📊 Crafting data-driven solutions <br>👩‍💻Join me in shaping the digital future! 🚀🤝
 <br>📫 How to reach me shishirregmi65@gmail.com<br>⚡ Fun fact I understand Programming jokes
-https://twitter.com/ShishirRegmi65
+
 
 <hr>
 <h2 align="center">Socials:</h2>
