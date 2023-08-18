@@ -8,8 +8,10 @@
 
 <hr>
 <h2 align="center"> 🌐 Socials:</h2>
+<p align="center">
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shishir.regmi.90) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ccrregmi65) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shishir-regmi-480b76206) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/CcrRegmi) 
+</p>
 <hr>
 <h2 align="center"> 💻 Tech Stack:</h2>
 
