@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Shishir Kumar Regmi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" alt="😎" width="30" height="30"></h1>
 <p align="center"><img src="./Shishir Photo.jpg" width="150"></p>
+<h3 align="center">~Quick Learner ~TechEnthusiast ~Learner.</h3>
 # 💫 About Me:
 🌐🧠 Transforming ideas into immersive web experiences<br>📊 Crafting data-driven solutions <br>👩‍💻Join me in shaping the digital future! 🚀🤝
 <br>📫 How to reach me shishirregmi65@gmail.com<br>⚡ Fun fact I understand Programming jokes
