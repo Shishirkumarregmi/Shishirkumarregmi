@@ -1,6 +1,6 @@
 # 💫 About Me:
 🌐🧠 Transforming ideas into immersive web experiences<br>📊 Crafting data-driven solutions <br>👩‍💻Join me in shaping the digital future! 🚀🤝
-<br>📫 How to reach me shishirregmi65@gmail.com<br>⚡ Fun fact I understand Programming jokes"
+<br>📫 How to reach me shishirregmi65@gmail.com<br>⚡ Fun fact I understand Programming jokes
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shishir.regmi.90) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ccrregmi65) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shishir-regmi-480b76206) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/CcrRegmi) 
