@@ -1,3 +1,5 @@
+<h1 align="center">Hi, I'm <img  width="17" src="./assets/mapofnepal.gif"/>Shishir Kumar Regmi <img width="17" src="./assets/mapofnepal.gif"/><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" alt="😎" width="30" height="30"></h1>
+<p align="center"><img src="./assets/saroj.png" width="150"></p>
 # 💫 About Me:
 🌐🧠 Transforming ideas into immersive web experiences<br>📊 Crafting data-driven solutions <br>👩‍💻Join me in shaping the digital future! 🚀🤝
 <br>📫 How to reach me shishirregmi65@gmail.com<br>⚡ Fun fact I understand Programming jokes
