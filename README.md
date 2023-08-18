@@ -1,3 +1,4 @@
+<img src="./insta.jpg">
 <h1 align="center">Hi, I'm Shishir Kumar Regmi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" alt="😎" width="30" height="30"></h1>
 <p align="center"><img src="./Shishir Photo.jpg" width="150"></p>
 <h3 align="center">~Quick Learner ~TechEnthusiast ~Learner.</h3>
